@@ -7,7 +7,7 @@
     "start": "ts-node-dev --respawn --transpile-only --poll ./src/app.ts"
   },
   "author": "Max T",
-  "license": "ISC",
+  "license": "GPL-3.0",
   "dependencies": {
     "@types/node": "^16.4.2",
     "discord.js": "^12.5.3",
