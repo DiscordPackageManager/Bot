@@ -1,5 +1,5 @@
 {
-  "name": "discord-package-manager",
+  "name": "discord-package-manager-bot",
   "version": "1.0.0",
   "description": "Discord Package Manager is a bot that is like NPM but for discord!",
   "main": "src/app.js",
